@@ -1,7 +1,7 @@
 body {
     
-    /* background-color: #cccccc; */
-    background-color: #dfe9e9;
+    background-image: url("../images/ricepaper_v3.png");
+   
    }
 
 .Website_Header {
@@ -10,7 +10,8 @@ body {
     padding-left: 8px;
     padding-top: 8px;
     padding-bottom: 8px;
-    background-color: rgb(141, 145, 146);
+    /* background-color: rgb(141, 145, 146); */
+    background-color: rgb(87, 109, 206);
     color: white;
     position: relative;
  
@@ -52,7 +53,7 @@ font-size: 24pt;
 
   .evaha_photos{
 width:100%;
-height: 300px;
+height: 280px;
 
   }
 
@@ -64,6 +65,15 @@ height: 300px;
   .body_text{
     font-size: 16pt;
 
+  }
+
+.about_text{
+    font-size: 14pt;
+
+}
+
+  .rules_text{
+    font-size: 14pt;
   }
 
   .mySlides1 {
