@@ -12,10 +12,10 @@ function carousel2() {
   if (myIndex2 > x.length) {myIndex2 = 1}    
   x[myIndex2-1].style.display = "block";  
   if(firstRun == 0) {
-    setTimeout(carousel2, 3500); // Change image every 3 seconds
+    setTimeout(carousel2, 5500); // Change image every 3 seconds
     firstRun = 1;
     }
     else{
-        setTimeout(carousel2, 3000); // Change image every 3 seconds
+        setTimeout(carousel2, 5000); // Change image every 3 seconds
     }
 }
