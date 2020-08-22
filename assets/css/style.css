@@ -9,12 +9,27 @@ body {
     margin-top: -21px;
     padding-left: 8px;
     padding-top: 8px;
-    padding-bottom: 8px;
+    padding-bottom: 30px;
     /* background-color: rgb(141, 145, 146); */
     background-color: rgb(87, 109, 206);
     color: white;
     position: relative;
  
+
+}
+
+.Covid_Header {
+
+  margin-top: -35px;
+  padding-left: 8px;
+  padding-top: 0px;
+  padding-bottom: 8px;
+  /* background-color: rgb(141, 145, 146); */
+  background-color: rgb(200, 196, 196);
+  color: rgb(0, 0, 0);
+  position: relative;
+  text-align: center;
+
 
 }
 
